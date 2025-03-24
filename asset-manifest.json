@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Veriphone/static/css/main.e6c13ad2.css",
-    "main.js": "/Veriphone/static/js/main.bcb8cee3.js",
+    "main.css": "/Veriphone/static/css/main.f855e6bc.css",
+    "main.js": "/Veriphone/static/js/main.ad958c65.js",
     "static/js/453.d276f4ef.chunk.js": "/Veriphone/static/js/453.d276f4ef.chunk.js",
     "index.html": "/Veriphone/index.html",
-    "main.e6c13ad2.css.map": "/Veriphone/static/css/main.e6c13ad2.css.map",
-    "main.bcb8cee3.js.map": "/Veriphone/static/js/main.bcb8cee3.js.map",
+    "main.f855e6bc.css.map": "/Veriphone/static/css/main.f855e6bc.css.map",
+    "main.ad958c65.js.map": "/Veriphone/static/js/main.ad958c65.js.map",
     "453.d276f4ef.chunk.js.map": "/Veriphone/static/js/453.d276f4ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.bcb8cee3.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ad958c65.js"
   ]
 }
